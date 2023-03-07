@@ -342,7 +342,7 @@ img {
 .policy-form {
   display: flex;
   align-content: center;
-  margin-top: 8px;
+  margin-top: 16px;
 }
 .checkbox-label {
   position: relative;
